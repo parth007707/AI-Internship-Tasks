@@ -1,0 +1,14 @@
+# Day 1 - Task 1: Conda & Jupyter Notebook Setup
+
+## Objective
+Set up a Python environment using Conda and Jupyter Notebook for data science development.
+
+## Tools Used
+- Python
+- Conda
+- Jupyter Notebook
+- NumPy
+- Pandas
+
+## Outcome
+Successfully configured the environment and verified the installation by running sample Python code.
